@@ -27,4 +27,4 @@ My research interests are in **macroeconomics** and **money and banking** with a
 
 ## Work in Progress
 
-- "Endogenous Money Creation and Economic Stability: Evidence from Canada's Free Banking Period" *with Casey Pender* *(Draft coming soon)*
+- "On the Role of Private Money Creation in the Business Cycle: Evidence from Canada's Free Banking Period" *with Casey Pender* *(Draft coming soon)*

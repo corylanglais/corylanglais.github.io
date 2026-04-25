@@ -21,7 +21,7 @@
 
 I am an Assistant Professor in the <a href="https://mta.ca/current-students/department-economics">Department of Economics</a> at Mount Allison University. I earned my PhD in Economics from the <a href="https://www.utoronto.ca">University of Toronto</a> 
 
-My research interests are in **macroeconomics** and **money and banking** with a focus on the relationship between bank credit, inequality and business cycles.
+My research interests are in <strong>macroeconomics</strong> and <strong>money and banking</strong> with a focus on the relationship between bank credit, inequality and business cycles.
 
 </td>
 </tr>

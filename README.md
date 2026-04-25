@@ -15,4 +15,10 @@ I am an Assistant Professor in the [Department of Economics](https://mta.ca/curr
 
 My research interests are in **macroeconomics** and **money and banking** with a focus on the relationship between bank credit, inequality and business cycles.
 
-https://mta.ca/current-students/department-economics
+## Working Papers
+
+**1. [Real Effects of a Bank Credit Supply Shock on the Canadian Economy](./papers/Real_Effects.pdf)**
+— *Revise & Resubmit, Canadian Journal of Economics*
+
+**2. [Bank Credit Supply and the Unemployment Rate](./papers/FMC_Unemp.pdf)**
+— *Revise & Resubmit, Journal of Money, Credit and Banking*

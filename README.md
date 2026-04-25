@@ -23,7 +23,7 @@ My research interests are in **macroeconomics** and **money and banking** with a
 **2. [Bank Credit Supply and the Unemployment Rate](./papers/FMC_Unemp_Draft_02.pdf)**
 — *Revise & Resubmit, Journal of Money, Credit and Banking*
 
-**3. [Income Inequality and Bank Credit Supply: A THANK(ful) Approach](./papers/FMC_THANK.pdf)**
+**3. [Income Inequality and Bank Credit Supply: A THANK(ful) Approach](./papers/THANK_Update.pdf)**
 
 ## Work in Progress
 

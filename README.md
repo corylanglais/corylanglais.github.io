@@ -40,4 +40,4 @@ My research interests are in <strong>macroeconomics</strong> and <strong>money a
 
 ## Work in Progress
 
-- "On the Role of Private Money Creation in the Business Cycle: Evidence from Canada's Free Banking Period" *with Casey Pender* *(Draft coming soon)*
+- "On the Role of Private Money Creation in the Business Cycle: Evidence from Canada's Free Banking Period" *with <a href="https://www.caseypender.ca">Casey Pender</a>* *(Draft coming soon)*

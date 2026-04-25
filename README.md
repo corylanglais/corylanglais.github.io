@@ -1,1 +1,18 @@
-# corylanglais.github.io
+# Cory Langlais
+### Assistant Professor of Economics | Mount Allison University
+
+<!-- 
+[![Email](https://img.shields.io/badge/Email-janedoe%40university.edu-blue?style=flat-square&logo=gmail)](mailto:colanglais@mta.ca)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@corylanglais-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com)
+[![CV](https://img.shields.io/badge/CV-Download-red?style=flat-square&logo=adobe-acrobat-reader)](./cv.pdf) 
+-->
+
+---
+
+## About Me
+
+I am an Assistant Professor in the [Department of Economics](https://mta.ca/current-students/department-economics) at Mount Allison University. I earned my PhD in Economics from the [University of Toronto](https://www.utoronto.ca).
+
+My research interests are in **macroeconomics** and **money and banking** with a focus on the relationship between bank credit, inequality and business cycles.
+
+https://mta.ca/current-students/department-economics

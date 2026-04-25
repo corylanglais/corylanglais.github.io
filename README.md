@@ -22,3 +22,9 @@ My research interests are in **macroeconomics** and **money and banking** with a
 
 **2. [Bank Credit Supply and the Unemployment Rate](./papers/FMC_Unemp.pdf)**
 — *Revise & Resubmit, Journal of Money, Credit and Banking*
+
+**3. [Income Inequality and Bank Credit Supply: A THANK(ful) Approach](./papers/FMC_THANK.pdf)**
+
+## Work in Progress
+
+- "Endogenous Money Creation and Economic Stability: Evidence from Canada's Free Banking Period" *with Casey Pender* *(Draft coming soon)*

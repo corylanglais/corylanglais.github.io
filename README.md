@@ -1,4 +1,4 @@
-## Assistant Professor of Economics | Mount Allison University
+### Assistant Professor of Economics | Mount Allison University
 
 <!-- 
 [![Email](https://img.shields.io/badge/Email-janedoe%40university.edu-blue?style=flat-square&logo=gmail)](mailto:colanglais@mta.ca)

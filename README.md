@@ -1,4 +1,4 @@
-<img src="./images/profile.jpg" alt="Cory Langlais" width="25%">
+<img src="./images/profile.jpg" alt="Cory Langlais" width="50%">
 
 ### Assistant Professor of Economics | Mount Allison University
 
@@ -13,18 +13,18 @@
 
 <table>
 <tr>
-<td width="35%">
-<!-- 
-<img src="./images/profile.jpg" alt="Cory Langlais" width="100%">
--->
-</td>
-<td width="65%" valign="top">
+<td width="65%">
 
 I am an Assistant Professor in the <a href="https://mta.ca/current-students/department-economics">Department of Economics</a> at Mount Allison University. I earned my PhD in Economics from the <a href="https://www.utoronto.ca">University of Toronto</a>.
 
 <br><br>
 My research interests are in <strong>macroeconomics</strong> and <strong>money and banking</strong> with a focus on the relationship between bank credit, inequality, and business cycles.
 
+</td>
+<td width="35%" valign="top">
+<!-- 
+<img src="./images/profile.jpg" alt="Cory Langlais" width="100%">
+-->
 </td>
 </tr>
 </table>

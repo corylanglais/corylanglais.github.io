@@ -1,6 +1,6 @@
-# Cory Langlais
+<img src="./images/profile.jpg" alt="Cory Langlais" width="25%">
 
-<img src="./images/profile.jpg" alt="Cory Langlais" width="100%">
+# Cory Langlais
 
 ### Assistant Professor of Economics | Mount Allison University
 

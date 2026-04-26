@@ -13,7 +13,7 @@
 <tr>
 <td width="35%">
 
-<img src="./images/profile.jpg" alt="Cory Langlais" width="50%">
+<img src="./images/profile.jpg" alt="Cory Langlais" width="100%">
 
 </td>
 <td width="65%" valign="top">

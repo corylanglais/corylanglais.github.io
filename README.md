@@ -41,31 +41,9 @@ My research interests are in <strong>macroeconomics</strong> and <strong>money a
 
 - "On the Role of Private Money Creation in the Business Cycle: Evidence from Canada's Free Banking Period" *with <a href="https://www.caseypender.ca">Casey Pender</a>* *(Draft coming soon)*
 
-<!-- Simple Copyright Footer -->
-<style>
-  .footer {
-    border-top: 1px solid #e0e0e0;
-    padding: 1.5rem 2rem;
-    text-align: center;
-    font-family: Georgia, serif;
-    font-size: 13px;
-    color: #888;
-  }
+---
 
-  .footer a {
-    color: #555;
-    text-decoration: none;
-    border-bottom: 1px solid #ccc;
-  }
-
-  .footer a:hover { color: #111; }
-</style>
-
-<footer class="footer">
-  © <span id="yr"></span> Cory Langlais · 
-  <a href="mailto:colanglais@mta.ca">colanglais@mta.ca</a>
-</footer>
-
-<script>
-  document.getElementById('yr').textContent = new Date().getFullYear();
-</script>
+<p style="text-align:center; font-family:Georgia,serif; font-size:13px; color:#888; border-top:1px solid #e0e0e0; padding-top:1rem; margin-top:3rem;">
+  &copy; 2026 Cory Langlais &middot;
+  <a href="mailto:colanglais@mta.ca" style="color:#555;">colanglais@mta.ca</a>
+</p>

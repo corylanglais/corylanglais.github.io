@@ -40,7 +40,7 @@ My research interests are in <strong>macroeconomics</strong> and <strong>money a
   </button>
 </a>
 <a href="./codes">
-  <button style="padding:8px 20px; background:#24292e; color:#fff; font-family:Georgia,serif; font-size:14px; border:none; border-radius:4px; cursor:pointer;">
+  <button style="padding:8px 20px; background:#1a6eb5; color:#fff; font-family:Georgia,serif; font-size:14px; border:none; border-radius:4px; cursor:pointer;">
     💻 Code
   </button>
 </a>

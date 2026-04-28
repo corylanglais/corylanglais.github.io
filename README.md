@@ -31,12 +31,16 @@ My research interests are in <strong>macroeconomics</strong> and <strong>money a
 
 **1. [Real Effects of a Bank Credit Supply Shock on the Canadian Economy](./papers/Real_Effects.pdf)**
 — *Revise & Resubmit, Canadian Journal of Economics*
-<a href="./papers/Real_Effects.pdf" style="display:inline-block; padding:8px 18px; background:#222; color:#fff; font-family:Georgia,serif; font-size:14px; text-decoration:none; border-radius:4px;">
-  Download Paper (PDF)
-</a>
 
 **2. [Bank Credit Supply and the Unemployment Rate](./papers/FMC_Unemp_Draft_02.pdf)**
 — *Revise & Resubmit, Journal of Money, Credit and Banking*
+
+<a href="./papers/FMC_Unemp_Draft_02.pdf">
+  <button style="padding:8px 20px; background:#222; color:#fff; font-family:Georgia,serif; font-size:14px; border:none; border-radius:4px; cursor:pointer;">
+    📄 Download Paper (PDF)
+  </button>
+</a>
+
 
 **3. [Income Inequality and Bank Credit Supply: A THANK(ful) Approach](./papers/THANK_Update.pdf)**
 

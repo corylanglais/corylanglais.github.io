@@ -34,7 +34,6 @@ My research interests are in <strong>macroeconomics</strong> and <strong>money a
 
 **2. [Bank Credit Supply and the Unemployment Rate](./papers/FMC_Unemp_Draft_02.pdf)**
 — *Revise & Resubmit, Journal of Money, Credit and Banking*
-
 <a href="./papers/FMC_Unemp_Draft_02.pdf">
   <button style="padding:8px 20px; background:#222; color:#fff; font-family:Georgia,serif; font-size:14px; border:none; border-radius:4px; cursor:pointer;">
     📄 Download Paper (PDF)
